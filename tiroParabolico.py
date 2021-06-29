@@ -3,6 +3,15 @@ from random import randrange
 from turtle import *
 from freegames import vector
 
+"""
+Equipo 2:
+Francisco Vázquez, A00827546
+Nicolás Herrera, A01114972
+Ana Paula López, A01378255
+
+"""
+
+
 """ Initial Conditions """
 ball = vector(-200, -200)
 speed = vector(0, 0)
