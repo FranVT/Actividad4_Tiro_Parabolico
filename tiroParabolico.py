@@ -1,3 +1,5 @@
+""" Tiro Parabólico """
+
 """ Import functions """
 from random import randrange
 from turtle import *
