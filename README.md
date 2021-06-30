@@ -9,11 +9,11 @@ pip install freegames
 ```
 
 ## Apoyo
-Documentación [freegames](http://www.grantjenks.com/docs/freegames/)
+Documentación [freegames](http://www.grantjenks.com/docs/freegames/) \
 Documentación [turtle](https://docs.python.org/3/library/turtle.html)
 
 ## Autores
 
-Francisco Vázquez, A00827546
-Nicolás Herrera, A01114972
-Ana Paula López, A01378255
+Francisco Vázquez, A00827546 \  
+Nicolás Herrera, A01114972 \  
+Ana Paula López, A01378255 \
